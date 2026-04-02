@@ -8,7 +8,7 @@ ISO27001-Audit-Simulation/
 ├── 1_Risk_Assessment/
 ├── 2_ISO_Mapping/
 ├── 3_Audit_Plan/
+|── 4_Info_security_policy/
 ├── 4_Control_Testing/
-├── 5_Audit_Findings/
 ├── 6_Policies/
 └── README.md
